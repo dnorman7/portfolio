@@ -13,7 +13,7 @@ function Footer () {
                         Deanna Norman
                     </Col>
                     <Col className="p-0 d-flex justify-content-end" md={3}>
-                        This site was made by Deanna Norman
+                        This site was created by Deanna Norman
                     </Col>
                 </Row>
             </Container>
